@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Appsetup Test</string>
+
+    <string name="page1">This is page 1\nThe contents of this page\nwere deleted by github moderators\nfor violating GitHub Terms of Service</string>
+    <string name="page2">This is page 2\nThe contents of this page\nwere deleted by github moderators\nfor violating GitHub Terms of Service</string>
+    <string name="page3">This is page 3\nThe contents of this page\nwere deleted by github moderators\nfor violating GitHub Terms of Service</string>
+</resources>
