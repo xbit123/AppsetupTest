@@ -7,22 +7,22 @@
 
     <fragment
         android:id="@+id/menu_one"
-        android:name="com.example.appsetuptest.OneFragment"
+        android:name="com.example.appsetuptest.fragment.OneFragment"
         android:label="fragment_one"
         tools:layout="@layout/fragment_one" />
     <fragment
         android:id="@+id/menu_two"
-        android:name="com.example.appsetuptest.TwoFragment"
+        android:name="com.example.appsetuptest.fragment.TwoFragment"
         android:label="fragment_two"
         tools:layout="@layout/fragment_two" />
     <fragment
         android:id="@+id/menu_three"
-        android:name="com.example.appsetuptest.ThreeFragment"
+        android:name="com.example.appsetuptest.fragment.ThreeFragment"
         android:label="fragment_three"
         tools:layout="@layout/fragment_three" />
     <fragment
         android:id="@+id/menu_four"
-        android:name="com.example.appsetuptest.FourFragment"
+        android:name="com.example.appsetuptest.fragment.FourFragment"
         android:label="fragment_four"
         tools:layout="@layout/fragment_four" />
 </navigation>
